@@ -4,7 +4,7 @@
 class Node:
   def __init__(self, key, value):
     self.key = key
-    self. value = value
+    self.value = value
     
 class Hashmap:
     def __init__(self):
